@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "The Way Daily Entry V1",
+  "type": "object",
+  "required": [
+    "entry_id",
+    "date_metadata",
+    "reading_metadata",
+    "content_payload",
+    "media_payload",
+    "publishing"
+  ],
+  "properties": {
+    "entry_id": { "type": "string" },
+    "slug": { "type": "string" },
+    "date_metadata": {
+      "type": "object",
+      "required": [
+        "hebrew_date_display",
+        "gregorian_date_display",
+        "hebrew_year",
+        "hebrew_month",
+        "hebrew_day",
+        "date_explainer_short"
+      ],
+      "properties": {
+        "hebrew_date_display": { "type": "string" },
+        "gregorian_date_display": { "type": "string" },
+        "hebrew_year": { "type": "integer" },
+        "hebrew_month": { "type": "string" },
+        "hebrew_day": { "type": "integer" },
+        "gregorian_iso": { "type": "string", "format": "date" },
+        "date_explainer_short": { "type": "string" },
+        "date_explainer_long": { "type": "string" }
+      }
+    },
+    "reading_metadata": {
+      "type": "object",
+      "required": [
+        "sefer",
+        "parashah",
+        "aliyah_number",
+        "aliyah_label",
+        "primary_reference",
+        "focus_reference"
+      ],
+      "properties": {
+        "sefer": { "type": "string" },
+        "parashah": { "type": "string" },
+        "parashah_explainer": { "type": "string" },
+        "aliyah_number": { "type": "integer" },
+        "aliyah_label": { "type": "string" },
+        "aliyah_explainer": { "type": "string" },
+        "primary_reference": { "type": "string" },
+        "focus_reference": { "type": "string" },
+        "cycle_type": { "type": "string", "enum": ["annual"] }
+      }
+    },
+    "content_payload": {
+      "type": "object",
+      "required": [
+        "content_theme",
+        "scripture_versions",
+        "scripture_snippet",
+        "commentary_foundation",
+        "commentary_crossrefs",
+        "commentary_application",
+        "practical_title",
+        "practical_action",
+        "reflection_prompt"
+      ],
+      "properties": {
+        "content_theme": { "type": "string" },
+        "scripture_versions": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["KJV", "Hebrew-English Parallel"]
+          }
+        },
+        "scripture_mode_default": {
+          "type": "string",
+          "enum": ["KJV", "Hebrew-English Parallel"]
+        },
+        "scripture_snippet": { "type": "string" },
+        "scripture_hebrew": { "type": "string" },
+        "scripture_english_parallel": { "type": "string" },
+        "commentary_foundation": { "type": "string" },
+        "commentary_crossrefs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["reference", "summary"],
+            "properties": {
+              "reference": { "type": "string" },
+              "summary": { "type": "string" },
+              "text_kjv": { "type": "string" },
+              "text_parallel": { "type": "string" }
+            }
+          }
+        },
+        "commentary_application": { "type": "string" },
+        "practical_title": { "type": "string" },
+        "practical_action": { "type": "string" },
+        "reflection_prompt": { "type": "string" },
+        "closing_charge": { "type": "string" },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "media_payload": {
+      "type": "object",
+      "properties": {
+        "infographic_status": {
+          "type": "string",
+          "enum": ["none", "manual", "templated", "generated"]
+        },
+        "infographic_title": { "type": "string" },
+        "infographic_image": { "type": "string" },
+        "infographic_alt": { "type": "string" },
+        "infographic_caption": { "type": "string" },
+        "infographic_layout_type": { "type": "string" },
+        "infographic_prompt_seed": { "type": "string" },
+        "infographic_publish_ready": { "type": "boolean" }
+      }
+    },
+    "publishing": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["draft", "review", "published"]
+        },
+        "author": { "type": "string" },
+        "reviewed_by": { "type": "string" },
+        "created_at": { "type": "string" },
+        "updated_at": { "type": "string" }
+      }
+    }
+  }
+}
