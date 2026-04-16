@@ -1,0 +1,89 @@
+{
+  "entry_id": "5786-01-29-bo-7",
+  "slug": "the-midnight-cry-and-the-call-to-go",
+  "date_metadata": {
+    "hebrew_date_display": "29 Nisan 5786",
+    "gregorian_date_display": "April 16, 2026",
+    "hebrew_year": 5786,
+    "hebrew_month": "Nisan",
+    "hebrew_day": 29,
+    "gregorian_iso": "2026-04-16",
+    "date_explainer_short": "Hebrew and modern dates are both shown for clarity and biblical context.",
+    "date_explainer_long": "The Hebrew date anchors the reading in the Torah cycle and feast rhythm, while the Gregorian date helps users match the reading to the modern day."
+  },
+  "reading_metadata": {
+    "sefer": "Exodus",
+    "parashah": "Bo",
+    "parashah_explainer": "The weekly Torah portion in the annual reading cycle.",
+    "aliyah_number": 7,
+    "aliyah_label": "Seventh Aliyah",
+    "aliyah_explainer": "A section of the weekly Torah portion used here as the daily reading slice.",
+    "primary_reference": "Exodus 12:29-51",
+    "focus_reference": "Exodus 12:29-31",
+    "cycle_type": "annual"
+  },
+  "content_payload": {
+    "content_theme": "The Midnight Cry and the Call to Go",
+    "scripture_versions": ["KJV", "Hebrew-English Parallel"],
+    "scripture_mode_default": "KJV",
+    "scripture_snippet": "At midnight the Lord struck down all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of the livestock. And Pharaoh rose up in the night, he and all his servants and all the Egyptians. And there was a great cry in Egypt, for there was not a house where someone was not dead. Then he summoned Moses and Aaron by night and said, 'Up, go out from among my people, both you and the people of Israel; and go, serve the Lord, as you have said.'",
+    "scripture_hebrew": "",
+    "scripture_english_parallel": "",
+    "commentary_foundation": "The final plague is both the harvest of Egypt's injustice against God's firstborn and the doorway into Israel's service to the Lord.",
+    "commentary_crossrefs": [
+      {
+        "reference": "Exodus 4:22-23",
+        "summary": "God announces that Israel is His firstborn and warns Pharaoh before judgment falls.",
+        "text_kjv": "And thou shalt say unto Pharaoh, Thus saith the Lord, Israel is my son, even my firstborn: And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn.",
+        "text_parallel": ""
+      },
+      {
+        "reference": "Hebrews 11:28",
+        "summary": "By faith, the blood-marked Passover shielded Israel from the destroyer.",
+        "text_kjv": "Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.",
+        "text_parallel": ""
+      },
+      {
+        "reference": "1 Peter 1:18-19",
+        "summary": "The Passover lamb points forward to redemption through the precious blood of Messiah.",
+        "text_kjv": "Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; But with the precious blood of Christ, as of a lamb without blemish and without spot:",
+        "text_parallel": ""
+      },
+      {
+        "reference": "2 Corinthians 6:2",
+        "summary": "God's deliverance demands present-tense response, not delay.",
+        "text_kjv": "For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.",
+        "text_parallel": ""
+      },
+      {
+        "reference": "1 Corinthians 6:20",
+        "summary": "Those redeemed belong wholly to God and are called to honor Him with their lives.",
+        "text_kjv": "For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.",
+        "text_parallel": ""
+      }
+    ],
+    "commentary_application": "Exodus is not just a flight from slavery; it is a transfer into holy service. We are brought out so that we may belong to and serve the King.",
+    "practical_title": "The Midnight Audit",
+    "practical_action": "Identify one area of Egypt—a habit, grudge, or compromise—you have been lingering in. Leave it today with urgency, and replace it with a specific act of service to someone in your community.",
+    "reflection_prompt": "Where am I lingering in what God has already told me to leave?",
+    "closing_charge": "Go out from your Egypt and serve the Lord as He has said.",
+    "tags": ["exodus", "bo", "passover", "deliverance", "blood", "discipleship"]
+  },
+  "media_payload": {
+    "infographic_status": "manual",
+    "infographic_title": "Exodus: From Bondage to Service",
+    "infographic_image": "assets/2324.jpeg",
+    "infographic_alt": "Infographic showing Exodus themes of justice, blood, deliverance, service, and the midnight audit.",
+    "infographic_caption": "Daily infographic for Bo, seventh aliyah.",
+    "infographic_layout_type": "journey-split",
+    "infographic_prompt_seed": "Create a reverent infographic about Exodus 12:29-31 showing the breaking of bondage, the distinction of the blood, and the call to immediate service.",
+    "infographic_publish_ready": true
+  },
+  "publishing": {
+    "status": "draft",
+    "author": "Logos Governance Systems Inc.",
+    "reviewed_by": "",
+    "created_at": "2026-04-16",
+    "updated_at": "2026-04-16"
+  }
+}
