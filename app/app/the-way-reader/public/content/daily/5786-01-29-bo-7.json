@@ -1,0 +1,63 @@
+{
+  "entry_id": "5786-02-11-emor-3",
+  "slug": "emor-3",
+  "date_metadata": {
+    "hebrew_date_display": "11 Iyar 5786",
+    "gregorian_date_display": "April 28, 2026"
+  },
+  "reading_metadata": {
+    "sefer": "Leviticus",
+    "parashah": "Emor",
+    "aliyah_label": "Third Aliyah",
+    "primary_reference": "Leviticus 21:16-24",
+    "focus_reference": "Leviticus 21:16-24"
+  },
+  "content_payload": {
+    "content_theme": "The Standard of Holiness and the Shadow of the Substance",
+    "scripture_snippet": "And the LORD spake unto Moses, saying, Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God... Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them.",
+    "commentary_foundation": "Leviticus 21 establishes a difficult but purposeful standard for the Aaronic priesthood. A visible blemish did not cut a priest off from the holy things, but it did restrict his approach to the altar, guarding the symbolic integrity of the office.",
+    "commentary_crossrefs": [
+      {
+        "reference": "Malachi 2:7",
+        "text_kjv": "For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts.",
+        "summary": "The priest was appointed to preserve knowledge and represent the Lord faithfully before the people."
+      },
+      {
+        "reference": "Hebrews 7:26-27",
+        "text_kjv": "For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens; Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.",
+        "summary": "Yeshua fulfills perfectly what the Aaronic priesthood only foreshadowed: a truly undefiled High Priest."
+      },
+      {
+        "reference": "2 Corinthians 5:21",
+        "text_kjv": "For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.",
+        "summary": "Messiah bore sin though He Himself had no blemish of sin."
+      },
+      {
+        "reference": "1 Peter 2:9",
+        "text_kjv": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:",
+        "summary": "In Messiah, believers are called into a royal priesthood with a holy witness."
+      },
+      {
+        "reference": "Romans 12:1",
+        "text_kjv": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.",
+        "summary": "The call now falls on us to present ourselves as holy and acceptable before God."
+      },
+      {
+        "reference": "John 4:24",
+        "text_kjv": "God is a Spirit: and they that worship him must worship him in spirit and in truth.",
+        "summary": "The shadow of outward ritual gives way to true worship in spirit and truth."
+      }
+    ],
+    "commentary_application": "The physical requirements of Leviticus 21 preserved a shadow pointing forward to Messiah. In Yeshua, the substance has come: our High Priest is holy, harmless, undefiled, and without sin. Now the burden of holiness is pressed upon the true worshipper, not as a matter of outward appearance, but as spiritual integrity before God and before those watching our witness.",
+    "practical_title": "Walk It Out: Guard the Sanctuary",
+    "practical_action": "If a visible blemish once restricted a priest from approaching the altar, how much more should we guard against blemishes of character that profane the sanctuary of the Holy Spirit? Today, identify one habit, word, or compromise that mars your witness, and take one concrete step to remove it.",
+    "reflection_prompt": "What blemish of integrity is the Spirit exposing in me today, and what act of obedience must follow?",
+    "closing_charge": "Do not excuse what God is exposing. Bring it into the light, lay it on the altar, and walk in the holiness fitting for one called into a royal priesthood."
+  },
+  "media_payload": {
+    "infographic_title": "From Shadow to Substance: The Standard of Holiness",
+    "infographic_image": "assets/infographics/emor-shadow-to-substance.png",
+    "infographic_alt": "Infographic showing the Aaronic priesthood as shadow and the royal priesthood in Messiah as substance",
+    "infographic_caption": "Daily infographic for Emor, third aliyah."
+  }
+}
