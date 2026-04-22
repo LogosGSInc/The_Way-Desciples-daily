@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "entry_id": "5786-02-03-acharei-mot-kedoshim-4",
   "slug": "acharei-mot-kedoshim-aliyah-4",
-  "generated_at": "2026-04-22T23:05:09.757Z",
+  "generated_at": "2026-04-22T23:17:38.871Z",
   "generated_by": "generate-daily.mjs v1.1",
   "pipeline_phase": 1,
   "using_fallback": false,
@@ -32,44 +32,85 @@
     "cycle_type": "annual"
   },
   "content_payload": {
-    "_note": "Populate content/staging/today-draft.md then re-run",
     "torah_text": {
-      "source_translation": null,
-      "verses": []
+      "source_translation": "ESV",
+      "verses": [
+        {
+          "ref": "Leviticus 18:1-2",
+          "text": "And the LORD spoke to Moses, saying, \"Speak to the people of Israel and say to them, I am the LORD your God.\""
+        },
+        {
+          "ref": "Leviticus 18:3",
+          "text": "You shall not do as they do in the land of Egypt, where you lived, and you shall not do as they do in the land of Canaan, to which I am bringing you. You shall not walk in their statutes."
+        },
+        {
+          "ref": "Leviticus 18:4-5",
+          "text": "You shall follow my rules and keep my statutes and walk in them. I am the LORD your God. You shall therefore keep my statutes and my rules; if a person does them, he shall live by them: I am the LORD."
+        },
+        {
+          "ref": "Leviticus 18:24-25",
+          "text": "Do not make yourselves unclean by any of these things, for by all these the nations I am driving out before you have become unclean, and the land became unclean, so that I punished its iniquity, and the land vomited out its inhabitants."
+        },
+        {
+          "ref": "Leviticus 18:30",
+          "text": "So keep my charge never to practice any of these abominable customs that were practiced before you, and never to make yourselves unclean by them: I am the LORD your God."
+        }
+      ]
     },
     "commentary": {
       "tier_1_foundational": {
-        "title": "Today's Reading",
-        "body": "Today we study the holiness of God in Acharei Mot. He is set apart and calls us to be set apart."
+        "title": "Set Apart to Stand Out",
+        "body": "Leviticus 18 opens with one of the most repeated phrases in Torah: \"I am the LORD your God.\" This divine declaration bookends the entire chapter — it appears at the beginning (v.2), at the central pivot (v.5), and at the close (v.30). God is not simply issuing rules; He is anchoring His commands in His own identity. The call to holiness is not arbitrary legislation — it is a call to reflect who God is.\n\nIsrael had just come out of Egypt and was heading toward Canaan. Both cultures were saturated with sexual immorality and exploitation. God was drawing a sharp line: \"You shall not do as they do.\" His people were to be visibly, demonstrably different — not because separation was the goal in itself, but because their lives were meant to testify to the reality of a holy God living among them.\n\n\"If a person does them, he shall live by them\" (v.5). Life — full, flourishing, covenant life — flows from walking in God's ways. Holiness is not restriction; it is the path to abundant life in His presence."
       },
       "tier_2_deeper_dive": {
-        "title": null,
-        "body": null
+        "title": "The Land Has Memory",
+        "body": "One of the most striking theological claims in Leviticus 18 is that the land itself becomes defiled by sin. \"The land vomited out its inhabitants\" (v.25) — not metaphorically, but as a description of a genuine moral consequence written into creation. The Canaanites were not expelled arbitrarily; their sin had saturated the land until it could no longer hold them.\n\nThis reflects a Hebrew worldview in which creation and covenant are deeply interwoven. When humans violate God's moral order, the effects ripple into the physical world. The land participates in the covenant — it receives blessing when Israel walks in faithfulness and becomes hostile when they do not (cf. Leviticus 26, Deuteronomy 28).\n\nFor the disciple, this is a sobering reminder: our moral choices are never purely private. They affect communities, families, and the social fabric around us. Just as the Canaanites' sin shaped the land for generations, our patterns of life — faithful or faithless — form the environment into which the next generation is born. We are stewards not just of our own souls but of the moral ecology of our households and communities."
       },
       "tier_3_spiritual_application": {
-        "title": null,
-        "body": null
+        "title": "Alive in Him, Set Apart for Him",
+        "body": "Rabbi Paul, writing to the Corinthians, echoed Leviticus 18 almost directly: \"Flee sexual immorality... your body is a temple of the Holy Spirit\" (1 Cor 6:18-19). The logic is identical — you have been purchased, you belong to God, therefore holiness is not optional but ontological. You are not your own.\n\nYeshua fulfilled the Torah not by abolishing its moral weight but by writing it on the heart (Jer 31:33). The Spirit given at Shavuot is precisely the power to do what Israel could not do by willpower alone — to walk in God's statutes and keep His rules (Ezek 36:27). The commands of Leviticus 18 are no longer merely external obligations; through the Spirit they become the shape of our new nature.\n\n\"If a person does them, he shall live by them\" (v.5). Paul quotes this very verse in Romans 10:5 and Galatians 3:12, wrestling with what it means for those in Messiah. The New Covenant answer is Yeshua himself: He lived by them perfectly, and His righteousness is credited to us. We now walk in that life — not to earn it, but because we have received it."
       }
     },
     "hebrew_word_study": {
-      "word": null,
-      "transliteration": null,
-      "definition": null,
-      "significance": null
+      "word": "וָחַי בָּהֶם",
+      "transliteration": "va-chai vahem",
+      "definition": "\"And he shall live by them\" — from חָיָה (chayah), to live, be alive, revive; בָּהֶם means \"in them\" or \"by them\"",
+      "significance": "This three-word phrase from Leviticus 18:5 became one of the most theologically loaded texts in all of Scripture. The Talmud derives from it the principle of pikuach nefesh — that preserving life overrides nearly all other commandments (Sanhedrin 74a). Paul quotes it twice (Rom 10:5; Gal 3:12) in his argument about Torah and faith. The phrase reveals that Torah is not a death code but a life code — God's instructions are the path to flourishing covenant life in His presence."
     },
-    "cross_references": [],
-    "reflection_prompt": null,
+    "cross_references": [
+      {
+        "ref": "Leviticus 20:22-24",
+        "note": "The land vomiting out its inhabitants is elaborated — obedience is what keeps Israel in the land God is giving them. The ethical and the territorial are inseparable in Torah."
+      },
+      {
+        "ref": "Ezekiel 36:27",
+        "note": "\"I will put my Spirit within you, and cause you to walk in my statutes\" — the New Covenant answer to Israel's failure to keep Lev 18. Obedience becomes possible from the inside out."
+      },
+      {
+        "ref": "1 Corinthians 6:18-20",
+        "note": "Paul applies the logic of Lev 18 directly: the body is a temple; sexual immorality defiles it. Flee, because you belong to God — the same \"I am the LORD your God\" logic."
+      },
+      {
+        "ref": "Romans 10:5",
+        "note": "Paul quotes Leviticus 18:5 verbatim — \"the person who does the commandments shall live by them\" — as he unpacks righteousness through Messiah. The verse is foundational to his theology."
+      },
+      {
+        "ref": "1 Peter 1:15-16",
+        "note": "\"Be holy in all your conduct, since it is written: You shall be holy, for I am holy\" — a direct citation of the Leviticus holiness ethic applied to Gentile disciples in the diaspora."
+      }
+    ],
+    "reflection_prompt": "God says \"I am the LORD your God\" five times in Leviticus 18 — at the start, at the pivotal promise of life, and at the close. Where in your life do you need to hear that declaration today — not as law, but as the voice of the One who calls you His own and says: the path I'm showing you leads to life?",
     "practical_action": {
-      "title": null,
-      "body": null
+      "title": "Draw One Line Today",
+      "body": "Leviticus 18 is a chapter of clear lines — \"you shall not.\" Holiness requires knowing your boundaries before you reach them. Identify one area where the line between what honors God and what doesn't has become blurry or hasn't been consciously drawn. Write it down. Tell one trusted person. The first act of holiness is naming the line before you're standing at the edge."
     },
     "business_integrity_application": {
-      "title": null,
-      "body": null
+      "title": "Distinct in the Marketplace",
+      "body": "\"You shall not do as they do in the land of Egypt... and you shall not do as they do in the land of Canaan\" (18:3). Egypt and Canaan represent the prevailing cultures — their norms, their deal structures, their accepted compromises. Every industry has its Egypt and Canaan: standard practices everyone accepts that slowly erode integrity. A disciple in the marketplace is called to the same distinctiveness Israel was — not to be strange for its own sake, but to operate by a different set of rules because you serve a different King. This might mean declining a deal that's legal but predatory, refusing to participate in office politics that require deception, or being transparent when hiding information would be profitable. The world notices when someone won't play by the standard rules — and that visibility is exactly the point."
     },
     "great_commission_tie": {
-      "title": null,
-      "body": null
+      "title": "Holiness Is Apologetics",
+      "body": "The nations were meant to look at Israel and see a people whose God was different — and therefore real. The ethics of Leviticus 18 were not just about Israel's purity; they were about Israel's witness. A community that refuses to exploit, that honors the dignity of every person, that treats the body as sacred — such a community proclaims something about the God they worship.\n\nYeshua said, \"By this all people will know that you are my disciples, if you have love for one another\" (John 13:35). That love is not merely emotional — it is embodied, ethical, and costly. When disciples of Yeshua live visibly differently from the surrounding culture in how we treat one another and ourselves, we become a living argument for the Gospel. The Great Commission is carried not only by proclamation but by the visible holiness of a set-apart people."
     }
   },
   "festival_overlay": {
@@ -85,7 +126,7 @@
   },
   "publishing": {
     "status": "published",
-    "published_at": "2026-04-22T23:05:09.824Z",
+    "published_at": "2026-04-22T23:17:38.911Z",
     "published_by": "publish-current.mjs v1.0",
     "current_json_written": true,
     "archive_path": "content/daily/5786-02-03-acharei-mot-kedoshim-4.json"
