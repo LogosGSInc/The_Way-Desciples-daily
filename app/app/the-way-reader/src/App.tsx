@@ -46,7 +46,7 @@ function App() {
   const [error, setError] = useState<string>('')
 
   useEffect(() => {
-    fetch('/content/daily/5786-01-29-bo-7.json')
+    fetch('/content/daily/current.json')
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load daily entry')
         return res.json()

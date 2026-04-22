@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "description": "Master content pipeline rules for The Way: Disciple's Daily"
+  },
+  "calendar": {
+    "calendar_mode": "diaspora",
+    "timezone": "Asia/Jerusalem",
+    "hebrew_year": 5786
+  },
+  "schedule": {
+    "daily_trigger_time": "17:00",
+    "daily_trigger_tz": "Asia/Jerusalem",
+    "daily_trigger_utc_summer": "14:00",
+    "daily_trigger_utc_winter": "15:00",
+    "weekly_trigger_day": "saturday",
+    "weekly_trigger_time": "17:00"
+  },
+  "aliyah_day_map": {
+    "0": {
+      "day_name": "Sunday",
+      "aliyah": 1
+    },
+    "1": {
+      "day_name": "Monday",
+      "aliyah": 2
+    },
+    "2": {
+      "day_name": "Tuesday",
+      "aliyah": 3
+    },
+    "3": {
+      "day_name": "Wednesday",
+      "aliyah": 4
+    },
+    "4": {
+      "day_name": "Thursday",
+      "aliyah": 5
+    },
+    "5": {
+      "day_name": "Friday",
+      "aliyah": 6
+    },
+    "6": {
+      "day_name": "Shabbat",
+      "aliyah": 7
+    }
+  },
+  "daily_output_spec": {
+    "schema_version": "1.0",
+    "torah_snippet_verses": 4,
+    "commentary_word_range": [
+      150,
+      250
+    ],
+    "cross_refs_min": 3,
+    "cross_refs_max": 5,
+    "include_practical_action": true,
+    "include_reflection_prompt": true,
+    "include_hebrew_term": true,
+    "include_great_commission_tie": true,
+    "commentary_tiers": [
+      "tier_1_foundational",
+      "tier_2_deeper_dive",
+      "tier_3_spiritual_application"
+    ]
+  },
+  "content_pipeline": {
+    "phase": 1,
+    "staging_file": "content/staging/today-draft.md",
+    "fallback_content_file": "content/daily/_fallback.json",
+    "auto_generate_body": false
+  },
+  "publishing": {
+    "current_daily_path": "app/app/the-way-reader/public/content/daily/current.json",
+    "write_strategy": "atomic"
+  },
+  "drift_policy": {
+    "on_schema_mismatch": "halt_and_log",
+    "on_date_mismatch": "halt_and_log",
+    "on_missing_staging": "use_fallback"
+  }
+}

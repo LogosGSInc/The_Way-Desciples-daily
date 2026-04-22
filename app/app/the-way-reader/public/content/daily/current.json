@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "entry_id": "5786-02-03-acharei-mot-kedoshim-4",
+  "slug": "acharei-mot-kedoshim-aliyah-4",
+  "generated_at": "2026-04-22T23:05:09.757Z",
+  "generated_by": "generate-daily.mjs v1.1",
+  "pipeline_phase": 1,
+  "using_fallback": false,
+  "date_metadata": {
+    "hebrew_date_display": "3 Iyyar 5786",
+    "gregorian_date_display": "April 22, 2026",
+    "hebrew_year": 5786,
+    "hebrew_month": "Iyyar",
+    "hebrew_day": 3,
+    "hebrew_month_number": 2,
+    "date_explainer_short": "Wednesday · Acharei Mot-Kedoshim",
+    "day_of_week_iso": 3,
+    "day_of_week_name": "Wednesday",
+    "gregorian_iso": "2026-04-22"
+  },
+  "reading_metadata": {
+    "parashah_slug": "acharei-mot-kedoshim",
+    "parashah_name_en": "Acharei Mot-Kedoshim",
+    "parashah_name_he": "אַחֲרֵי מוֹת קְדֹשִׁים",
+    "is_combined_portion": true,
+    "aliyah_number": 4,
+    "aliyah_label": "4th Aliyah",
+    "book": "Leviticus",
+    "chapters": "16:1-20:27",
+    "verses_start": null,
+    "verses_end": null,
+    "cycle_type": "annual"
+  },
+  "content_payload": {
+    "_note": "Populate content/staging/today-draft.md then re-run",
+    "torah_text": {
+      "source_translation": null,
+      "verses": []
+    },
+    "commentary": {
+      "tier_1_foundational": {
+        "title": "Today's Reading",
+        "body": "Today we study the holiness of God in Acharei Mot. He is set apart and calls us to be set apart."
+      },
+      "tier_2_deeper_dive": {
+        "title": null,
+        "body": null
+      },
+      "tier_3_spiritual_application": {
+        "title": null,
+        "body": null
+      }
+    },
+    "hebrew_word_study": {
+      "word": null,
+      "transliteration": null,
+      "definition": null,
+      "significance": null
+    },
+    "cross_references": [],
+    "reflection_prompt": null,
+    "practical_action": {
+      "title": null,
+      "body": null
+    },
+    "business_integrity_application": {
+      "title": null,
+      "body": null
+    },
+    "great_commission_tie": {
+      "title": null,
+      "body": null
+    }
+  },
+  "festival_overlay": {
+    "active": false,
+    "festival_name": null,
+    "festival_note": null
+  },
+  "media_payload": {
+    "infographic_status": "planned",
+    "audio_status": "planned",
+    "image_url": null,
+    "audio_url": null
+  },
+  "publishing": {
+    "status": "published",
+    "published_at": "2026-04-22T23:05:09.824Z",
+    "published_by": "publish-current.mjs v1.0",
+    "current_json_written": true,
+    "archive_path": "content/daily/5786-02-03-acharei-mot-kedoshim-4.json"
+  },
+  "pipeline_flags": {
+    "schema_validated": true,
+    "date_verified": true,
+    "parashah_verified": true,
+    "content_complete": true,
+    "ready_to_publish": true
+  }
+}

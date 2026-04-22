@@ -1,0 +1,498 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "hebrew_year": 5786,
+    "calendar_mode": "diaspora",
+    "leap_year": false
+  },
+  "combined_portions_this_year": [
+    "vayakhel-pekudei",
+    "tazria-metzora",
+    "acharei-mot-kedoshim",
+    "behar-bechukotai",
+    "matot-masei",
+    "nitzavim-vayelech"
+  ],
+  "cycle": [
+    {
+      "index": 1,
+      "slug": "bereshit",
+      "name_en": "Bereshit",
+      "name_he": "בְּרֵאשִׁית",
+      "shabbat_date": "2025-10-25",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "1:1-6:8"
+    },
+    {
+      "index": 2,
+      "slug": "noach",
+      "name_en": "Noach",
+      "name_he": "נֹחַ",
+      "shabbat_date": "2025-11-01",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "6:9-11:32"
+    },
+    {
+      "index": 3,
+      "slug": "lech-lecha",
+      "name_en": "Lech Lecha",
+      "name_he": "לֶךְ-לְךָ",
+      "shabbat_date": "2025-11-08",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "12:1-17:27"
+    },
+    {
+      "index": 4,
+      "slug": "vayera",
+      "name_en": "Vayera",
+      "name_he": "וַיֵּרָא",
+      "shabbat_date": "2025-11-15",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "18:1-22:24"
+    },
+    {
+      "index": 5,
+      "slug": "chayei-sarah",
+      "name_en": "Chayei Sarah",
+      "name_he": "חַיֵּי שָׂרָה",
+      "shabbat_date": "2025-11-22",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "23:1-25:18"
+    },
+    {
+      "index": 6,
+      "slug": "toldot",
+      "name_en": "Toldot",
+      "name_he": "תּוֹלְדֹת",
+      "shabbat_date": "2025-11-29",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "25:19-28:9"
+    },
+    {
+      "index": 7,
+      "slug": "vayetzei",
+      "name_en": "Vayetzei",
+      "name_he": "וַיֵּצֵא",
+      "shabbat_date": "2025-12-06",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "28:10-32:3"
+    },
+    {
+      "index": 8,
+      "slug": "vayishlach",
+      "name_en": "Vayishlach",
+      "name_he": "וַיִּשְׁלַח",
+      "shabbat_date": "2025-12-13",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "32:4-36:43"
+    },
+    {
+      "index": 9,
+      "slug": "vayeshev",
+      "name_en": "Vayeshev",
+      "name_he": "וַיֵּשֶׁב",
+      "shabbat_date": "2025-12-20",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "37:1-40:23"
+    },
+    {
+      "index": 10,
+      "slug": "miketz",
+      "name_en": "Miketz",
+      "name_he": "מִקֵּץ",
+      "shabbat_date": "2025-12-27",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "41:1-44:17"
+    },
+    {
+      "index": 11,
+      "slug": "vayigash",
+      "name_en": "Vayigash",
+      "name_he": "וַיִּגַּשׁ",
+      "shabbat_date": "2026-01-03",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "44:18-47:27"
+    },
+    {
+      "index": 12,
+      "slug": "vayechi",
+      "name_en": "Vayechi",
+      "name_he": "וַיְחִי",
+      "shabbat_date": "2026-01-10",
+      "combined": false,
+      "book": "Genesis",
+      "chapters": "47:28-50:26"
+    },
+    {
+      "index": 13,
+      "slug": "shemot",
+      "name_en": "Shemot",
+      "name_he": "שְׁמוֹת",
+      "shabbat_date": "2026-01-17",
+      "combined": false,
+      "book": "Exodus",
+      "chapters": "1:1-6:1"
+    },
+    {
+      "index": 14,
+      "slug": "vaera",
+      "name_en": "Vaera",
+      "name_he": "וָאֵרָא",
+      "shabbat_date": "2026-01-24",
+      "combined": false,
+      "book": "Exodus",
+      "chapters": "6:2-9:35"
+    },
+    {
+      "index": 15,
+      "slug": "bo",
+      "name_en": "Bo",
+      "name_he": "בֹּא",
+      "shabbat_date": "2026-01-31",
+      "combined": false,
+      "book": "Exodus",
+      "chapters": "10:1-13:16"
+    },
+    {
+      "index": 16,
+      "slug": "beshalach",
+      "name_en": "Beshalach",
+      "name_he": "בְּשַׁלַּח",
+      "shabbat_date": "2026-02-07",
+      "combined": false,
+      "book": "Exodus",
+      "chapters": "13:17-17:16"
+    },
+    {
+      "index": 17,
+      "slug": "yitro",
+      "name_en": "Yitro",
+      "name_he": "יִתְרוֹ",
+      "shabbat_date": "2026-02-14",
+      "combined": false,
+      "book": "Exodus",
+      "chapters": "18:1-20:23"
+    },
+    {
+      "index": 18,
+      "slug": "mishpatim",
+      "name_en": "Mishpatim",
+      "name_he": "מִשְׁפָּטִים",
+      "shabbat_date": "2026-02-21",
+      "combined": false,
+      "book": "Exodus",
+      "chapters": "21:1-24:18"
+    },
+    {
+      "index": 19,
+      "slug": "terumah",
+      "name_en": "Terumah",
+      "name_he": "תְּרוּמָה",
+      "shabbat_date": "2026-02-28",
+      "combined": false,
+      "book": "Exodus",
+      "chapters": "25:1-27:19"
+    },
+    {
+      "index": 20,
+      "slug": "tetzaveh",
+      "name_en": "Tetzaveh",
+      "name_he": "תְּצַוֶּה",
+      "shabbat_date": "2026-03-07",
+      "combined": false,
+      "book": "Exodus",
+      "chapters": "27:20-30:10"
+    },
+    {
+      "index": 21,
+      "slug": "ki-tisa",
+      "name_en": "Ki Tisa",
+      "name_he": "כִּי תִשָּׂא",
+      "shabbat_date": "2026-03-14",
+      "combined": false,
+      "book": "Exodus",
+      "chapters": "30:11-34:35"
+    },
+    {
+      "index": 22,
+      "slug": "vayakhel-pekudei",
+      "name_en": "Vayakhel-Pekudei",
+      "name_he": "וַיַּקְהֵל פְקוּדֵי",
+      "shabbat_date": "2026-03-21",
+      "combined": true,
+      "book": "Exodus",
+      "chapters": "35:1-40:38"
+    },
+    {
+      "index": 23,
+      "slug": "vayikra",
+      "name_en": "Vayikra",
+      "name_he": "וַיִּקְרָא",
+      "shabbat_date": "2026-03-28",
+      "combined": false,
+      "book": "Leviticus",
+      "chapters": "1:1-5:26"
+    },
+    {
+      "index": 24,
+      "slug": "tzav",
+      "name_en": "Tzav",
+      "name_he": "צַו",
+      "shabbat_date": "2026-04-04",
+      "combined": false,
+      "book": "Leviticus",
+      "chapters": "6:1-8:36"
+    },
+    {
+      "index": 25,
+      "slug": "shmini",
+      "name_en": "Shmini",
+      "name_he": "שְּׁמִינִי",
+      "shabbat_date": "2026-04-11",
+      "combined": false,
+      "book": "Leviticus",
+      "chapters": "9:1-11:47"
+    },
+    {
+      "index": 26,
+      "slug": "tazria-metzora",
+      "name_en": "Tazria-Metzora",
+      "name_he": "תַזְרִיעַ מְצֹרָע",
+      "shabbat_date": "2026-04-18",
+      "combined": true,
+      "book": "Leviticus",
+      "chapters": "12:1-15:33"
+    },
+    {
+      "index": 27,
+      "slug": "acharei-mot-kedoshim",
+      "name_en": "Acharei Mot-Kedoshim",
+      "name_he": "אַחֲרֵי מוֹת קְדֹשִׁים",
+      "shabbat_date": "2026-04-25",
+      "combined": true,
+      "book": "Leviticus",
+      "chapters": "16:1-20:27"
+    },
+    {
+      "index": 28,
+      "slug": "emor",
+      "name_en": "Emor",
+      "name_he": "אֱמֹר",
+      "shabbat_date": "2026-05-02",
+      "combined": false,
+      "book": "Leviticus",
+      "chapters": "21:1-24:23"
+    },
+    {
+      "index": 29,
+      "slug": "behar-bechukotai",
+      "name_en": "Behar-Bechukotai",
+      "name_he": "בְּהַר בְּחֻקֹּתַי",
+      "shabbat_date": "2026-05-09",
+      "combined": true,
+      "book": "Leviticus",
+      "chapters": "25:1-27:34"
+    },
+    {
+      "index": 30,
+      "slug": "bamidbar",
+      "name_en": "Bamidbar",
+      "name_he": "בְּמִדְבַּר",
+      "shabbat_date": "2026-05-16",
+      "combined": false,
+      "book": "Numbers",
+      "chapters": "1:1-4:20"
+    },
+    {
+      "index": 31,
+      "slug": "nasso",
+      "name_en": "Nasso",
+      "name_he": "נָשֹׂא",
+      "shabbat_date": "2026-05-23",
+      "combined": false,
+      "book": "Numbers",
+      "chapters": "4:21-7:89"
+    },
+    {
+      "index": 32,
+      "slug": "behaalotecha",
+      "name_en": "Behaalotecha",
+      "name_he": "בְּהַעֲלֹתְךָ",
+      "shabbat_date": "2026-05-30",
+      "combined": false,
+      "book": "Numbers",
+      "chapters": "8:1-12:16"
+    },
+    {
+      "index": 33,
+      "slug": "shelach",
+      "name_en": "Shelach",
+      "name_he": "שְׁלַח",
+      "shabbat_date": "2026-06-06",
+      "combined": false,
+      "book": "Numbers",
+      "chapters": "13:1-15:41"
+    },
+    {
+      "index": 34,
+      "slug": "korach",
+      "name_en": "Korach",
+      "name_he": "קֹרַח",
+      "shabbat_date": "2026-06-13",
+      "combined": false,
+      "book": "Numbers",
+      "chapters": "16:1-18:32"
+    },
+    {
+      "index": 35,
+      "slug": "chukat",
+      "name_en": "Chukat",
+      "name_he": "חֻקַּת",
+      "shabbat_date": "2026-06-20",
+      "combined": false,
+      "book": "Numbers",
+      "chapters": "19:1-22:1"
+    },
+    {
+      "index": 36,
+      "slug": "balak",
+      "name_en": "Balak",
+      "name_he": "בָּלָק",
+      "shabbat_date": "2026-06-27",
+      "combined": false,
+      "book": "Numbers",
+      "chapters": "22:2-25:9"
+    },
+    {
+      "index": 37,
+      "slug": "pinchas",
+      "name_en": "Pinchas",
+      "name_he": "פִּינְחָס",
+      "shabbat_date": "2026-07-04",
+      "combined": false,
+      "book": "Numbers",
+      "chapters": "25:10-30:1"
+    },
+    {
+      "index": 38,
+      "slug": "matot-masei",
+      "name_en": "Matot-Masei",
+      "name_he": "מַטּוֹת מַסְעֵי",
+      "shabbat_date": "2026-07-11",
+      "combined": true,
+      "book": "Numbers",
+      "chapters": "30:2-36:13"
+    },
+    {
+      "index": 39,
+      "slug": "devarim",
+      "name_en": "Devarim",
+      "name_he": "דְּבָרִים",
+      "shabbat_date": "2026-07-18",
+      "combined": false,
+      "book": "Deuteronomy",
+      "chapters": "1:1-3:22"
+    },
+    {
+      "index": 40,
+      "slug": "vaetchanan",
+      "name_en": "Vaetchanan",
+      "name_he": "וָאֶתְחַנַּן",
+      "shabbat_date": "2026-07-25",
+      "combined": false,
+      "book": "Deuteronomy",
+      "chapters": "3:23-7:11"
+    },
+    {
+      "index": 41,
+      "slug": "ekev",
+      "name_en": "Ekev",
+      "name_he": "עֵקֶב",
+      "shabbat_date": "2026-08-01",
+      "combined": false,
+      "book": "Deuteronomy",
+      "chapters": "7:12-11:25"
+    },
+    {
+      "index": 42,
+      "slug": "reeh",
+      "name_en": "Reeh",
+      "name_he": "רְאֵה",
+      "shabbat_date": "2026-08-08",
+      "combined": false,
+      "book": "Deuteronomy",
+      "chapters": "11:26-16:17"
+    },
+    {
+      "index": 43,
+      "slug": "shoftim",
+      "name_en": "Shoftim",
+      "name_he": "שֹׁפְטִים",
+      "shabbat_date": "2026-08-15",
+      "combined": false,
+      "book": "Deuteronomy",
+      "chapters": "16:18-21:9"
+    },
+    {
+      "index": 44,
+      "slug": "ki-teitzei",
+      "name_en": "Ki Teitzei",
+      "name_he": "כִּי-תֵצֵא",
+      "shabbat_date": "2026-08-22",
+      "combined": false,
+      "book": "Deuteronomy",
+      "chapters": "21:10-25:19"
+    },
+    {
+      "index": 45,
+      "slug": "ki-tavo",
+      "name_en": "Ki Tavo",
+      "name_he": "כִּי-תָבוֹא",
+      "shabbat_date": "2026-08-29",
+      "combined": false,
+      "book": "Deuteronomy",
+      "chapters": "26:1-29:8"
+    },
+    {
+      "index": 46,
+      "slug": "nitzavim-vayelech",
+      "name_en": "Nitzavim-Vayelech",
+      "name_he": "נִצָּבִים וַיֵּלֶךְ",
+      "shabbat_date": "2026-09-05",
+      "combined": true,
+      "book": "Deuteronomy",
+      "chapters": "29:9-31:30"
+    },
+    {
+      "index": 47,
+      "slug": "haazinu",
+      "name_en": "Haazinu",
+      "name_he": "הַאֲזִינוּ",
+      "shabbat_date": "2026-09-12",
+      "combined": false,
+      "book": "Deuteronomy",
+      "chapters": "32:1-32:52"
+    },
+    {
+      "index": 48,
+      "slug": "vezot-habracha",
+      "name_en": "Vezot Habracha",
+      "name_he": "וְזֹאת הַבְּרָכָה",
+      "shabbat_date": "2026-10-04",
+      "combined": false,
+      "book": "Deuteronomy",
+      "chapters": "33:1-34:12"
+    }
+  ]
+}
