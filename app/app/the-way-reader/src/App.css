@@ -98,3 +98,52 @@ blockquote {
   border-radius: 12px;
   border: 1px solid rgba(0, 31, 63, 0.2);
 }
+
+/* ── ADDITIONS ─────────────────────────────────────── */
+
+.focus-ref {
+  font-size: 13px; font-weight: 600;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: #01696f; margin: 0 0 12px;
+}
+blockquote.parallel {
+  border-left-color: #01696f; color: #334;
+  font-size: 14px; margin-top: 6px;
+}
+.practical-card { border-top: 3px solid #01696f; }
+.reflection-block {
+  background: rgba(0,31,63,0.06);
+  border-radius: 12px; padding: 16px 18px; margin: 16px 0;
+}
+.reflection-label {
+  font-size: 11px; font-weight: 700;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: #6b7280; margin: 0 0 6px;
+}
+.caption { font-size:13px; color:#6b7280; text-align:center; margin:10px 0 0; font-style:italic; }
+.error-state h2 { color: #a12c7b; }
+.retry-btn {
+  margin-top:12px; padding:10px 22px; background:#01696f;
+  color:#fff; border:none; border-radius:8px;
+  font-size:14px; font-weight:600; cursor:pointer;
+}
+.retry-btn:hover { background:#0c4e54; }
+@keyframes shimmer {
+  0%{background-position:-200% 0} 100%{background-position:200% 0}
+}
+.skeleton {
+  background:linear-gradient(90deg,rgba(255,255,255,.08) 25%,rgba(255,255,255,.18) 50%,rgba(255,255,255,.08) 75%);
+  background-size:200% 100%; animation:shimmer 1.5s ease-in-out infinite; border-radius:8px;
+}
+.skeleton-hero {
+  text-align:center; padding:32px 20px 20px;
+  display:flex; flex-direction:column; align-items:center; gap:12px;
+}
+.skeleton-eyebrow{height:12px;width:160px;}
+.skeleton-title{height:44px;width:360px;max-width:90%;border-radius:10px;}
+.skeleton-meta{height:14px;width:240px;}
+.skeleton-card{height:160px;border-radius:20px;margin-bottom:20px;}
+@media(max-width:600px){
+  .hero h1{font-size:28px;}
+  .card{padding:18px;}
+}
